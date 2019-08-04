@@ -1,16 +1,14 @@
-# Bikrami Dates Api
+# Bikrami Dates
 
 The Bikrami calander, is a lunar based calendar used in the Punjab and Indic region.
 It is used in the Dhan Dhan Sri Guru Granth Sahib Ji as well.
 
 It divides months based on emotions and happenings of that particular month.
 
-###### Bikrami Emotion and Happenings
-From my knowledge for example:
-**Chet** 🌱 happens when most natural flowers and vegetation begin to sprout.
+###### Examples
+**Chet** 🌱 when flowers and vegetation begin to sprout.
 
-The following month **Vaisakh** 🥗 is
-when the most natural vegetation becomes ripe for harvest.
+**Vaisakh** 🥗 when the most natural vegetation becomes ripe for harvest.
 
  **Har** 🏜 means the month of heat.
 
